@@ -1,0 +1,7 @@
+[megawad]
+name=Doom 2D 1.666
+description=Remastered original Doom 2D campaign, still with monsters, blood and FUN.
+author=Prikol Software & ar888
+pic=:\WADPIC
+endpic=:\ENDPIC
+endmus=Standart.wad:D2DMUS\йнмеж

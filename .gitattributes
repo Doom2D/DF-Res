@@ -1,0 +1,9 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Text configs
+*.txt    diff=astextplain eol=crlf
+*.lst    diff=astextplain eol=crlf
+
+# Shell scripts
+*.cmd    diff=astextplain eol=crlf

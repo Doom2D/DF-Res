@@ -3,19 +3,19 @@
 Width=0
 
 [1]
-//
+//engine: black color
 Width=0
 
 [2]
-//
+//engine: white color
 Width=0
 
 [3]
-//
+//engine: darker color
 Width=0
 
 [4]
-//
+//engine: lighter color
 Width=0
 
 [5]
@@ -39,7 +39,7 @@ Width=0
 Width=0
 
 [10]
-//
+//engine: line feed
 Width=0
 
 [11]
@@ -72,20 +72,19 @@ Width=10
 Width=10
 
 [18]
-//
+//engine: red color
 Width=0
 
-
 [19]
-//
+//engine: green color
 Width=0
 
 [21]
-//
+//engine: blue color
 Width=0
 
 [22]
-//
+//engine: yellow color
 Width=0
 
 [23]
@@ -113,24 +112,24 @@ Width=0
 Width=0
 
 [29]
-//
-Width=0
+//Folder icon
+Width=16
 
 [30]
 //Arrow top
-Width=9 
+Width=9
 
 [31]
 //Arrow bottom
-Width=9 
+Width=9
 
 [32]
 //space
-Width=8 
+Width=8
 
 [33]
 //!
-Width=6 
+Width=6
 
 [34]
 //"
@@ -174,7 +173,7 @@ Width=12
 
 [44]
 //,
-Width=6 
+Width=6
 
 [45]
 //-
@@ -362,7 +361,7 @@ Width=16
 
 [91]
 //[
-Width=8 
+Width=8
 
 [92]
 //\
@@ -370,7 +369,7 @@ Width=10
 
 [93]
 //]
-Width=8 
+Width=8
 
 [94]
 //^
@@ -489,7 +488,7 @@ Width=16
 //z
 Width=16
 
----     
+---
 
 [123]
 //{
@@ -508,8 +507,8 @@ Width=9
 Width=11
 
 [127]
-//FolderIcon
-Width=16
+//dead_symbol
+Width=9
 
 [128]
 // 
@@ -644,12 +643,12 @@ Width=0
 Width=0
 
 [161]
-// 
-Width=0
+//¡
+Width=15
 
 [162]
-// 
-Width=0
+//¢
+Width=15
 
 [163]
 // 
@@ -672,7 +671,7 @@ Width=0
 Width=0
 
 [168]
-//¨ 
+//¨
 Width=15
 
 [169]
@@ -680,8 +679,8 @@ Width=15
 Width=0
 
 [170]
-// 
-Width=0
+//ª
+Width=14
 
 [171]
 // 
@@ -700,8 +699,8 @@ Width=0
 Width=0
 
 [175]
-// 
-Width=0
+//¯
+Width=8
 
 [176]
 // 
@@ -740,12 +739,12 @@ Width=0
 Width=15
 
 [185]
-// 
-Width=0
+//¹
+Width=14
 
 [186]
-// 
-Width=0
+//º
+Width=14
 
 [187]
 // 
@@ -764,107 +763,107 @@ Width=0
 Width=0
 
 [191]
-// 
-Width=0
+//¿
+Width=8
 
 [192]
-//À 
+//À
 Width=16
 
 [193]
-//Á 
+//Á
 Width=16
 
 [194]
-//Â 
+//Â
 Width=16
 
 [195]
-//Ã 
+//Ã
 Width=12
 
 [196]
-//Ä 
+//Ä
 Width=16
 
 [197]
-//Å 
+//Å
 Width=15
 
 [198]
-//Æ 
+//Æ
 Width=16
 
 [199]
-//Ç 
+//Ç
 Width=14
 
 [200]
-//È 
+//È
 Width=16
 
 [201]
-//É 
+//É
 Width=16
 
 [202]
-//Ê 
+//Ê
 Width=16
 
 [203]
-//Ë 
-Width=16 
+//Ë
+Width=16
 
 [204]
-//Ì 
+//Ì
 Width=16
 
 [205]
-//Í 
+//Í
 Width=16
 
 [206]
-//Î 
+//Î
 Width=16
 
 [207]
-//Ï 
+//Ï
 Width=16
 
 [208]
-//Ð 
+//Ð
 Width=15
 
 [209]
-//Ñ 
+//Ñ
 Width=15
 
 [210]
-//Ò 
+//Ò
 Width=14
 
 [211]
-//Ó 
+//Ó
 Width=16
 
 [212]
-//Ô 
+//Ô
 Width=15
 
 [213]
-//Õ 
+//Õ
 Width=15
 
 [214]
-//Ö 
+//Ö
 Width=16
 
 [215]
-//× 
+//×
 Width=16
 
 [216]
-//Ø 
+//Ø
 Width=16
 
 [217]
@@ -876,7 +875,7 @@ Width=16
 Width=16
 
 [219]
-//Û 
+//Û
 Width=16
 
 [220]
@@ -892,107 +891,107 @@ Width=15
 Width=16
 
 [223]
-//ß 
+//ß
 Width=16
 
 [224]
-//à 
+//à
 Width=16
 
 [225]
-//á 
+//á
 Width=16
 
 [226]
-//â 
+//â
 Width=16
 
 [227]
-//ã 
+//ã
 Width=12
 
 [228]
-//ä 
+//ä
 Width=16
 
 [229]
-//å 
+//å
 Width=15
 
 [230]
-//æ 
+//æ
 Width=16
 
 [231]
-//ç 
+//ç
 Width=14
 
 [232]
-//è 
+//è
 Width=16
 
 [233]
-//é 
+//é
 Width=16
 
 [234]
-//ê 
+//ê
 Width=16
 
 [235]
-//ë 
+//ë
 Width=16
 
 [236]
-//ì 
+//ì
 Width=16
 
 [237]
-//í 
+//í
 Width=16
 
 [238]
-//î 
+//î
 Width=16
 
 [239]
-//ï 
+//ï
 Width=16
 
 [240]
-//ð 
+//ð
 Width=15
 
 [241]
-//ñ 
+//ñ
 Width=15
 
 [242]
-//ò 
+//ò
 Width=14
 
 [243]
-//ó 
+//ó
 Width=16
 
 [244]
-//ô 
+//ô
 Width=15
 
 [245]
-//õ 
+//õ
 Width=15
 
 [246]
-//ö 
+//ö
 Width=16
 
 [247]
-//÷ 
+//÷
 Width=16
 
 [248]
-//ø 
+//ø
 Width=16
 
 [249]
@@ -1004,7 +1003,7 @@ Width=16
 Width=16
 
 [251]
-//û 
+//û
 Width=16
 
 [252]
@@ -1020,6 +1019,5 @@ Width=15
 Width=16
 
 [255]
-//ÿ 
+//ÿ
 Width=16
-

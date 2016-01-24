@@ -1,3 +1,8 @@
+[FontMap]
+CharWidth=16
+CharHeight=16
+Kerning=-1
+
 [0]
 //
 Width=0

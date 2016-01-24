@@ -1,3 +1,8 @@
+[FontMap]
+CharWidth=32
+CharHeight=32
+Kerning=-2
+
 [0]
 //
 Width=0

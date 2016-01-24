@@ -1,0 +1,4 @@
+[FontMap]
+CharWidth=16
+CharHeight=16
+Kerning=-7

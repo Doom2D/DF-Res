@@ -24,6 +24,7 @@ die3=DIE3
 dielevel3=1
 die4=FALL
 dielevel4=4
+slop=1
 
 [Gibs]
 Resource=GIBS

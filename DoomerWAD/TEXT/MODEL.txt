@@ -8,9 +8,9 @@ flag_angle=-20
 
 [Sound]
 pain1=PAIN1
-painlevel1=2
+painlevel1=1
 pain2=PAIN2
-painlevel2=1
+painlevel2=2
 pain3=PAIN3
 painlevel3=3
 pain4=PAIN4

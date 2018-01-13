@@ -1,5 +1,5 @@
 [ChatSounds]
-Count=46
+Count=56
 
 // Tags in entries are tested consequently, loop breaks at first exact match
 // Exact match means all tags in entry are matched
@@ -227,47 +227,109 @@ Tag0=ой
 FullWord=-1
 
 [38]
-Sound=CHATSND\BOSS_PAIN
+Sound=CHATSND\OI
 Tags=1
-Tag0=shit
+Tag0=блин
 FullWord=-1
 
 [39]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
-Tag0=fuck
+Tag0=shit
 FullWord=-1
 
 [40]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
-Tag0=bitch
+Tag0=fuck
 FullWord=-1
 
 [41]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
-Tag0=бля
+Tag0=bitch
 FullWord=-1
 
 [42]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
-Tag0=блять
+Tag0=бля
 FullWord=-1
 
 [43]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
-Tag0=блядь
+Tag0=блять
 FullWord=-1
 
 [44]
-Sound=CHATSND\BOSS_DEATH
+Sound=CHATSND\BOSS_PAIN
 Tags=1
-Tag0=аааа
+Tag0=блядь
+FullWord=-1
 
 [45]
 Sound=CHATSND\BOSS_DEATH
 Tags=1
+Tag0=аааа
+
+[46]
+Sound=CHATSND\BOSS_DEATH
+Tags=1
 Tag0=aaaa
+
+[47]
+Sound=CHATSND\OK
+Tags=1
+Tag0=ok
+FullWord=-1
+
+[48]
+Sound=CHATSND\OK
+Tags=1
+Tag0=okay
+FullWord=-1
+
+[49]
+Sound=CHATSND\OK
+Tags=1
+Tag0=okey
+FullWord=-1
+
+[50]
+Sound=CHATSND\OK
+Tags=1
+Tag0=ок
+FullWord=-1
+
+[51]
+Sound=CHATSND\OK
+Tags=1
+Tag0=окей
+FullWord=-1
+
+[52]
+Sound=CHATSND\OK
+Tags=1
+Tag0=окай
+FullWord=-1
+
+[53]
+Sound=CHATSND\LETSGO
+Tags=2
+Tag0=let
+Tag1=go
+FullWord=-1
+
+[54]
+Sound=CHATSND\LETSGO
+Tags=2
+Tag0=lets
+Tag1=go
+FullWord=-1
+
+[55]
+Sound=CHATSND\LETSGO
+Tags=1
+Tag0=letsgo
+FullWord=-1

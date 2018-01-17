@@ -1,5 +1,5 @@
 [ChatSounds]
-Count=56
+Count=66
 
 // Tags in entries are tested consequently, loop breaks at first exact match
 // Exact match means all tags in entry are matched
@@ -227,13 +227,13 @@ Tag0=ой
 FullWord=-1
 
 [38]
-Sound=CHATSND\OI
+Sound=CHATSND\DOH
 Tags=1
 Tag0=блин
 FullWord=-1
 
 [39]
-Sound=CHATSND\BOSS_PAIN
+Sound=CHATSND\DOH
 Tags=1
 Tag0=shit
 FullWord=-1
@@ -332,4 +332,64 @@ FullWord=-1
 Sound=CHATSND\LETSGO
 Tags=1
 Tag0=letsgo
+FullWord=-1
+
+[56]
+Sound=CHATSND\DOH
+Tags=1
+Tag0=doh
+FullWord=-1
+
+[57]
+Sound=CHATSND\DOH
+Tags=1
+Tag0=d oh
+FullWord=-1
+
+[58]
+Sound=CHATSND\MERTVEC
+Tags=1
+Tag0=мертвец
+FullWord=-1
+
+[59]
+Sound=CHATSND\NORMALNO
+Tags=1
+Tag0=нормально
+FullWord=-1
+
+[60]
+Sound=CHATSND\NORMALNO
+Tags=1
+Tag0=эй
+FullWord=-1
+
+[61]
+Sound=CHATSND\TYMOI
+Tags=1
+Tag0=ты мой
+FullWord=-1
+
+[62]
+Sound=CHATSND\UBYU
+Tags=1
+Tag0=убью
+FullWord=-1
+
+[63]
+Sound=CHATSND\ZACHTO
+Tags=1
+Tag0=за что
+FullWord=-1
+
+[64]
+Sound=CHATSND\ZACHTO
+Tags=1
+Tag0=зачто
+FullWord=-1
+
+[65]
+Sound=CHATSND\ZACHTO
+Tags=1
+Tag0=зашто
 FullWord=-1

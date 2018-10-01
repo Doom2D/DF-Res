@@ -8,4 +8,3 @@ call pack_dnd Doomer.lst
 call pack_dnd Doom2D.lst
 echo [*] Build All done.
 echo.
-pause

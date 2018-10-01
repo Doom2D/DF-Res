@@ -1,0 +1,65 @@
+version: 1.0.{build}
+environment:
+  UploadFtp: doom2d.org
+  UploadUser:
+    secure: nmt2wy+rrB3V3E0VaH6Wkw==
+  UploadPass:
+    secure: RSpIXLDEgnLc1s8K4/kXtg==
+build_script:
+- cmd: make.cmd
+on_success:
+- ps: >-
+    function uploadFtp($server, $user, $pass, $filename, $path)
+
+    {
+      $srv = [System.Net.FtpWebRequest]::Create($server + $filename)
+      $srv = [System.Net.FtpWebRequest]$srv
+      $srv.Method = [System.Net.WebRequestMethods+Ftp]::UploadFile
+      $srv.Credentials = new-object System.Net.NetworkCredential($user, $pass)
+      $srv.UseBinary = $true
+      $srv.UsePassive = $true
+
+      $content = [System.IO.File]::ReadAllBytes($path)
+      $srv.ContentLength = $content.Length
+
+      $rs = $srv.GetRequestStream()
+      $rs.Write($content, 0, $content.Length)
+
+      try
+      {
+        $rs.Close()
+        $rs.Dispose()
+        "Success"
+      }
+      catch
+      {
+      }
+    }
+
+
+    if ($env:APPVEYOR_REPO_BRANCH -eq "master")
+
+    {
+      Write-Host "[*] Uploading DFWAD files..."
+      $Dir = "."
+      $ftp = "ftp://" + $env:UploadFtp + "/"
+      $user = $env:UploadUser
+      $pass = $env:UploadPass
+
+      foreach ($item in (dir $Dir "*.wad"))
+      {
+        "[*] Uploading $item..."
+        $check = uploadFtp $ftp $user $pass $item.Name $item.FullName
+        while ($check -ne "Success")
+        {
+          "[*] Retrying upload $item..."
+          $check = uploadFtp $ftp $user $pass $item.Name $item.FullName
+        }
+      }
+    }
+
+    else
+
+    {
+      Write-Host "[*] Uploading DFWAD files skipped (not master branch)."
+    }

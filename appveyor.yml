@@ -5,6 +5,8 @@ environment:
     secure: nmt2wy+rrB3V3E0VaH6Wkw==
   UploadPass:
     secure: RSpIXLDEgnLc1s8K4/kXtg==
+  UpdateKey:
+    secure: qabkF43L5XDdfCgJloTznxAUFP+dxwOIO/xlj3ApOk8=
 build_script:
 - cmd: make.cmd
 on_success:
@@ -56,6 +58,9 @@ on_success:
           $check = uploadFtp $ftp $user $pass $item.Name $item.FullName
         }
       }
+      Write-Host "[*] Updating..."
+      $postParams = @{key=$env:UpdateKey}
+      (Invoke-WebRequest -UseBasicParsing -Uri http://doom2d.org/doom2d_forever/latest/update_wads.php -Method POST -Body $postParams).Content
     }
 
     else

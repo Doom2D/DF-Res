@@ -1,5 +1,5 @@
 [ChatSounds]
-Count=74
+Count=80
 
 // Tags in entries are tested consequently, loop breaks at first exact match
 // Exact match means all tags in entry are matched
@@ -439,4 +439,40 @@ FullWord=-1
 Sound=CHATSND\OTOMSTIT
 Tags=1
 Tag0=отомстит
+FullWord=-1
+
+[74]
+Sound=CHATSND\OTOMSTIT
+Tags=1
+Tag0=мать
+FullWord=-1
+
+[75]
+Sound=CHATSND\OTOMSTIT
+Tags=1
+Tag0=паукан
+FullWord=-1
+
+[76]
+Sound=CHATSND\BEBACK
+Tags=1
+Tag0=afk
+FullWord=-1
+
+[77]
+Sound=CHATSND\BEBACK
+Tags=1
+Tag0=афк
+FullWord=-1
+
+[78]
+Sound=CHATSND\APPLAUSE
+Tags=1
+Tag0=bravo
+FullWord=-1
+
+[79]
+Sound=CHATSND\APPLAUSE
+Tags=1
+Tag0=браво
 FullWord=-1

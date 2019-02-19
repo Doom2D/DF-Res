@@ -183,336 +183,336 @@ Tag0=отойду
 FullWord=-1
 
 [30]
-Sound=CHATSND\HEHE
-Tags=1
-Tag0=hehe
-
-[31]
-Sound=CHATSND\HEHE
-Tags=1
-Tag0=хехе
-
-[32]
-Sound=CHATSND\HEHE
-Tags=1
-Tag0=хе хе
-
-[33]
-Sound=CHATSND\HEHE
-Tags=1
-Tag0=ыыы
-
-[34]
 Sound=CHATSND\AIAI
 Tags=1
 Tag0=ай ай
 FullWord=-1
 
-[35]
+[31]
 Sound=CHATSND\AIAI
 Tags=1
 Tag0=ай-ай
 FullWord=-1
 
-[36]
+[32]
 Sound=CHATSND\AI
 Tags=1
 Tag0=ай
 FullWord=-1
 
-[37]
+[33]
 Sound=CHATSND\OI
 Tags=1
 Tag0=ой
 FullWord=-1
 
-[38]
+[34]
 Sound=CHATSND\DOH
 Tags=1
 Tag0=блин
 FullWord=-1
 
-[39]
+[35]
 Sound=CHATSND\DOH
 Tags=1
 Tag0=shit
 FullWord=-1
 
-[40]
+[36]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
 Tag0=fuck
 FullWord=-1
 
-[41]
+[37]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
 Tag0=bitch
 FullWord=-1
 
-[42]
+[38]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
 Tag0=бля
 FullWord=-1
 
-[43]
+[39]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
 Tag0=блять
 FullWord=-1
 
-[44]
+[40]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
 Tag0=блядь
 FullWord=-1
 
-[45]
-Sound=CHATSND\BOSS_DEATH
-Tags=1
-Tag0=аааа
-
-[46]
-Sound=CHATSND\BOSS_DEATH
-Tags=1
-Tag0=aaaa
-
-[47]
+[41]
 Sound=CHATSND\OK
 Tags=1
 Tag0=ok
 FullWord=-1
 
-[48]
+[42]
 Sound=CHATSND\OK
 Tags=1
 Tag0=okay
 FullWord=-1
 
-[49]
+[43]
 Sound=CHATSND\OK
 Tags=1
 Tag0=okey
 FullWord=-1
 
-[50]
+[44]
 Sound=CHATSND\OK
 Tags=1
 Tag0=ок
 FullWord=-1
 
-[51]
+[45]
 Sound=CHATSND\OK
 Tags=1
 Tag0=окей
 FullWord=-1
 
-[52]
+[46]
 Sound=CHATSND\OK
 Tags=1
 Tag0=окай
 FullWord=-1
 
-[53]
+[47]
 Sound=CHATSND\LETSGO
 Tags=2
 Tag0=let
 Tag1=go
 FullWord=-1
 
-[54]
+[48]
 Sound=CHATSND\LETSGO
 Tags=2
 Tag0=lets
 Tag1=go
 FullWord=-1
 
-[55]
+[49]
 Sound=CHATSND\LETSGO
 Tags=1
 Tag0=letsgo
 FullWord=-1
 
-[56]
+[50]
 Sound=CHATSND\DOH
 Tags=1
 Tag0=doh
 FullWord=-1
 
-[57]
+[51]
 Sound=CHATSND\DOH
 Tags=1
 Tag0=d oh
 FullWord=-1
 
-[58]
+[52]
 Sound=CHATSND\MERTVEC
 Tags=1
 Tag0=мертвец
 FullWord=-1
 
-[59]
+[53]
 Sound=CHATSND\NORMALNO
 Tags=1
 Tag0=нормально
 FullWord=-1
 
-[60]
+[54]
 Sound=CHATSND\NORMALNO
 Tags=1
 Tag0=эй
 FullWord=-1
 
-[61]
+[55]
 Sound=CHATSND\TYMOI
 Tags=1
 Tag0=ты мой
 FullWord=-1
 
-[62]
+[56]
 Sound=CHATSND\UBYU
 Tags=1
 Tag0=убью
 FullWord=-1
 
-[63]
+[57]
 Sound=CHATSND\ZACHTO
 Tags=1
 Tag0=за что
 FullWord=-1
 
-[64]
+[58]
 Sound=CHATSND\ZACHTO
 Tags=1
 Tag0=зачто
 FullWord=-1
 
-[65]
+[59]
 Sound=CHATSND\ZACHTO
 Tags=1
 Tag0=зашто
 FullWord=-1
 
-[66]
+[60]
 Sound=CHATSND\ATAMSCHU
 Tags=1
 Tag0=отомщу
 FullWord=-1
 
-[67]
+[61]
 Sound=CHATSND\ATAMSCHU
 Tags=1
 Tag0=атамщу
 
-[68]
+[62]
 Sound=CHATSND\APPLAUSE
 Tags=1
 Tag0=аплодисменты
 FullWord=-1
 
-[69]
+[63]
 Sound=CHATSND\APPLAUSE
 Tags=1
 Tag0=applause
 FullWord=-1
 
-[70]
+[64]
 Sound=CHATSND\APPLAUSE
 Tags=1
 Tag0=апл
 FullWord=-1
 
-[71]
+[65]
 Sound=CHATSND\APPLAUSE
 Tags=1
 Tag0=apl
 FullWord=-1
 
-[72]
+[66]
 Sound=CHATSND\OTOMSTIT
 Tags=1
 Tag0=мама
 FullWord=-1
 
-[73]
+[67]
 Sound=CHATSND\OTOMSTIT
 Tags=1
 Tag0=отомстит
 FullWord=-1
 
-[74]
+[68]
 Sound=CHATSND\OTOMSTIT
 Tags=1
 Tag0=мать
 FullWord=-1
 
-[75]
+[69]
 Sound=CHATSND\OTOMSTIT
 Tags=1
 Tag0=паукан
 FullWord=-1
 
-[76]
+[70]
 Sound=CHATSND\BEBACK
 Tags=1
 Tag0=afk
 FullWord=-1
 
-[77]
+[71]
 Sound=CHATSND\BEBACK
 Tags=1
 Tag0=афк
 FullWord=-1
 
-[78]
+[72]
 Sound=CHATSND\APPLAUSE
 Tags=1
 Tag0=bravo
 FullWord=-1
 
-[79]
+[73]
 Sound=CHATSND\APPLAUSE
 Tags=1
 Tag0=браво
 FullWord=-1
 
-[80]
+[74]
 Sound=CHATSND\GOVNYUK
 Tags=2
 Tag0=брось
 Tag1=пушку
 FullWord=-1
 
-[81]
+[75]
 Sound=CHATSND\GOVNYUK
 Tags=2
 Tag0=брось
 Tag1=ствол
 FullWord=-1
 
-[82]
+[76]
 Sound=CHATSND\GOVNYUK
 Tags=1
 Tag0=говнюк
 FullWord=-1
 
-[83]
+[77]
 Sound=CHATSND\KAZLY
 Tags=1
 Tag0=козлы
 FullWord=-1
 
-[84]
+[78]
 Sound=CHATSND\KAZLY
 Tags=1
 Tag0=казлы
 FullWord=-1
 
-[85]
+[79]
 Sound=CHATSND\KAZLY
 Tags=1
 Tag0=казлыы
+
+[80]
+Sound=CHATSND\HEHE
+Tags=1
+Tag0=hehe
+
+[81]
+Sound=CHATSND\HEHE
+Tags=1
+Tag0=хехе
+
+[82]
+Sound=CHATSND\HEHE
+Tags=1
+Tag0=хе хе
+
+[83]
+Sound=CHATSND\HEHE
+Tags=1
+Tag0=ыыы
+
+[84]
+Sound=CHATSND\BOSS_DEATH
+Tags=1
+Tag0=аааа
+
+[85]
+Sound=CHATSND\BOSS_DEATH
+Tags=1
+Tag0=aaaa
 
 [86]
 Sound=CHATSND\NADGOLOV

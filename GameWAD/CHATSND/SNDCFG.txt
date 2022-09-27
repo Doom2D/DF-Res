@@ -10,27 +10,27 @@ Count=107
 [0]
 Sound=CHATSND\TEST1
 Tags=2
-Tag0=слышишь
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 Tag1=?
 FullWord=-1
 
 [1]
 Sound=CHATSND\TSTEND
 Tags=1
-Tag0=слышишь
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [2]
 Sound=MSOUNDS\MAN_ALERT
 Tags=2
-Tag0=стой
+Tag0=пїЅпїЅпїЅпїЅ
 Tag1=!
 FullWord=-1
 
 [3]
 Sound=MSOUNDS\TRUP
 Tags=1
-Tag0=ты труп
+Tag0=пїЅпїЅ пїЅпїЅпїЅпїЅ
 
 [4]
 Sound=MSOUNDS\HAHA
@@ -45,12 +45,12 @@ Tag0=ahah
 [6]
 Sound=MSOUNDS\HAHA
 Tags=1
-Tag0=хаха
+Tag0=пїЅпїЅпїЅпїЅ
 
 [7]
 Sound=MSOUNDS\HAHA
 Tags=1
-Tag0=ахах
+Tag0=пїЅпїЅпїЅпїЅ
 
 [8]
 Sound=CHATSND\TRIPLE
@@ -66,7 +66,7 @@ FullWord=-1
 [10]
 Sound=CHATSND\WOW
 Tags=1
-Tag0=вау
+Tag0=пїЅпїЅпїЅ
 FullWord=-1
 
 [11]
@@ -84,7 +84,7 @@ FullWord=-1
 [13]
 Sound=CHATSND\PRUNEJUICE
 Tags=1
-Tag0=сдохни
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [14]
@@ -138,7 +138,7 @@ Tag1=up
 [22]
 Sound=CHATSND\SHUTUP
 Tags=1
-Tag0=заткнись
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 
 [23]
 Sound=CHATSND\SPARTA
@@ -149,7 +149,7 @@ FullWord=-1
 [24]
 Sound=CHATSND\SPARTA
 Tags=1
-Tag0=спарта
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [25]
@@ -167,49 +167,49 @@ FullWord=-1
 [27]
 Sound=CHATSND\BEBACK
 Tags=1
-Tag0=я скоро
+Tag0=пїЅ пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [28]
 Sound=CHATSND\BEBACK
 Tags=1
-Tag0=я вернусь
+Tag0=пїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [29]
 Sound=CHATSND\BEBACK
 Tags=1
-Tag0=отойду
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [30]
 Sound=CHATSND\AIAI
 Tags=1
-Tag0=ай ай
+Tag0=пїЅпїЅ пїЅпїЅ
 FullWord=-1
 
 [31]
 Sound=CHATSND\AIAI
 Tags=1
-Tag0=ай-ай
+Tag0=пїЅпїЅ-пїЅпїЅ
 FullWord=-1
 
 [32]
 Sound=CHATSND\AI
 Tags=1
-Tag0=ай
+Tag0=пїЅпїЅ
 FullWord=-1
 
 [33]
 Sound=CHATSND\OI
 Tags=1
-Tag0=ой
+Tag0=пїЅпїЅ
 FullWord=-1
 
 [34]
 Sound=CHATSND\DOH
 Tags=1
-Tag0=блин
+Tag0=пїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [35]
@@ -233,19 +233,19 @@ FullWord=-1
 [38]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
-Tag0=бля
+Tag0=пїЅпїЅпїЅ
 FullWord=-1
 
 [39]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
-Tag0=блять
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [40]
 Sound=CHATSND\BOSS_PAIN
 Tags=1
-Tag0=блядь
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [41]
@@ -269,19 +269,19 @@ FullWord=-1
 [44]
 Sound=CHATSND\OK
 Tags=1
-Tag0=ок
+Tag0=пїЅпїЅ
 FullWord=-1
 
 [45]
 Sound=CHATSND\OK
 Tags=1
-Tag0=окей
+Tag0=пїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [46]
 Sound=CHATSND\OK
 Tags=1
-Tag0=окай
+Tag0=пїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [47]
@@ -319,66 +319,66 @@ FullWord=-1
 [52]
 Sound=CHATSND\MERTVEC
 Tags=1
-Tag0=мертвец
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [53]
 Sound=CHATSND\NORMALNO
 Tags=1
-Tag0=нормально
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [54]
 Sound=CHATSND\NORMALNO
 Tags=1
-Tag0=эй
+Tag0=пїЅпїЅ
 FullWord=-1
 
 [55]
 Sound=CHATSND\TYMOI
 Tags=1
-Tag0=ты мой
+Tag0=пїЅпїЅ пїЅпїЅпїЅ
 FullWord=-1
 
 [56]
 Sound=CHATSND\UBYU
 Tags=1
-Tag0=убью
+Tag0=пїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [57]
 Sound=CHATSND\ZACHTO
 Tags=1
-Tag0=за что
+Tag0=пїЅпїЅ пїЅпїЅпїЅ
 FullWord=-1
 
 [58]
 Sound=CHATSND\ZACHTO
 Tags=1
-Tag0=зачто
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [59]
 Sound=CHATSND\ZACHTO
 Tags=1
-Tag0=зашто
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [60]
 Sound=CHATSND\ATAMSCHU
 Tags=1
-Tag0=отомщу
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [61]
 Sound=CHATSND\ATAMSCHU
 Tags=1
-Tag0=атамщу
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅ
 
 [62]
 Sound=CHATSND\APPLAUSE
 Tags=1
-Tag0=аплодисменты
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [63]
@@ -390,7 +390,7 @@ FullWord=-1
 [64]
 Sound=CHATSND\APPLAUSE
 Tags=1
-Tag0=апл
+Tag0=пїЅпїЅпїЅ
 FullWord=-1
 
 [65]
@@ -402,25 +402,25 @@ FullWord=-1
 [66]
 Sound=CHATSND\OTOMSTIT
 Tags=1
-Tag0=мама
+Tag0=пїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [67]
 Sound=CHATSND\OTOMSTIT
 Tags=1
-Tag0=отомстит
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [68]
 Sound=CHATSND\OTOMSTIT
 Tags=1
-Tag0=мать
+Tag0=пїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [69]
 Sound=CHATSND\OTOMSTIT
 Tags=1
-Tag0=паукан
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [70]
@@ -432,7 +432,7 @@ FullWord=-1
 [71]
 Sound=CHATSND\BEBACK
 Tags=1
-Tag0=афк
+Tag0=пїЅпїЅпїЅ
 FullWord=-1
 
 [72]
@@ -444,45 +444,45 @@ FullWord=-1
 [73]
 Sound=CHATSND\APPLAUSE
 Tags=1
-Tag0=браво
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [74]
 Sound=CHATSND\GOVNYUK
 Tags=2
-Tag0=брось
-Tag1=пушку
+Tag0=пїЅпїЅпїЅпїЅпїЅ
+Tag1=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [75]
 Sound=CHATSND\GOVNYUK
 Tags=2
-Tag0=брось
-Tag1=ствол
+Tag0=пїЅпїЅпїЅпїЅпїЅ
+Tag1=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [76]
 Sound=CHATSND\GOVNYUK
 Tags=1
-Tag0=говнюк
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [77]
 Sound=CHATSND\KAZLY
 Tags=1
-Tag0=козлы
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [78]
 Sound=CHATSND\KAZLY
 Tags=1
-Tag0=казлы
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [79]
 Sound=CHATSND\KAZLY
 Tags=1
-Tag0=казлыы
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅ
 
 [80]
 Sound=CHATSND\HEHE
@@ -492,22 +492,22 @@ Tag0=hehe
 [81]
 Sound=CHATSND\HEHE
 Tags=1
-Tag0=хехе
+Tag0=пїЅпїЅпїЅпїЅ
 
 [82]
 Sound=CHATSND\HEHE
 Tags=1
-Tag0=хе хе
+Tag0=пїЅпїЅ пїЅпїЅ
 
 [83]
 Sound=CHATSND\HEHE
 Tags=1
-Tag0=ыыы
+Tag0=пїЅпїЅпїЅ
 
 [84]
 Sound=CHATSND\BOSS_DEATH
 Tags=1
-Tag0=аааа
+Tag0=пїЅпїЅпїЅпїЅ
 
 [85]
 Sound=CHATSND\BOSS_DEATH
@@ -517,86 +517,86 @@ Tag0=aaaa
 [86]
 Sound=CHATSND\NADGOLOV
 Tags=1
-Tag0=идиот
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [87]
 Sound=CHATSND\NADGOLOV
 Tags=2
-Tag0=над
-Tag1=головой
+Tag0=пїЅпїЅпїЅ
+Tag1=пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [88]
 Sound=CHATSND\TIHTO
 Tags=1
-Tag0=ты кто
+Tag0=пїЅпїЅ пїЅпїЅпїЅ
 FullWord=-1
 
 [89]
 Sound=CHATSND\TIHTO
 Tags=1
-Tag0=тыкто
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [88]
 Sound=CHATSND\TIHTO
 Tags=1
-Tag0=ты хто
+Tag0=пїЅпїЅ пїЅпїЅпїЅ
 FullWord=-1
 
 [89]
 Sound=CHATSND\TIHTO
 Tags=1
-Tag0=тыхто
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [90]
 Sound=CHATSND\NESPAT
 Tags=1
-Tag0=спать
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [91]
 Sound=CHATSND\NESPAT
 Tags=1
-Tag0=спит
+Tag0=пїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [92]
 Sound=CHATSND\NESPAT
 Tags=1
-Tag0=уснул
+Tag0=пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [93]
 Sound=CHATSND\PALEHCHE
 Tags=1
-Tag0=полегче
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [94]
 Sound=CHATSND\PALEHCHE
 Tags=1
-Tag0=палехче
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [95]
 Sound=CHATSND\ONZDES
 Tags=1
-Tag0=он здесь
+Tag0=пїЅпїЅ пїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [96]
 Sound=CHATSND\KOMNE
 Tags=1
-Tag0=ко мне
+Tag0=пїЅпїЅ пїЅпїЅпїЅ
 FullWord=-1
 
 [97]
 Sound=CHATSND\KOMNE
 Tags=1
-Tag0=чуваки
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [98]
@@ -608,7 +608,7 @@ FullWord=-1
 [99]
 Sound=CHATSND\FISTING
 Tags=1
-Tag0=фистинг
+Tag0=пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 FullWord=-1
 
 [100]
@@ -627,7 +627,6 @@ Tag1=shit
 Sound=CHATSND\SUCTION
 Tags=1
 Tag0=suction
-FullWord=-1
 
 [103]
 Sound=CHATSND\SUCTION

@@ -1,4 +1,4 @@
-resource=TBLU
+resource=TBLUC
 framecount=4
 framewidth=32
 frameheight=128

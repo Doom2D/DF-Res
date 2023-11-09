@@ -1,4 +1,4 @@
-resource=WALL22
+resource=WALL22_1
 framecount=3
 framewidth=128
 frameheight=128

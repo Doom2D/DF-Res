@@ -1,4 +1,4 @@
-resource=TGRN
+resource=TGRND
 framecount=4
 framewidth=32
 frameheight=128

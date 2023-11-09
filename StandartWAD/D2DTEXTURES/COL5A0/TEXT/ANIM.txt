@@ -1,4 +1,4 @@
-resource=COL5
+resource=COL5A
 framecount=2
 framewidth=64
 frameheight=64

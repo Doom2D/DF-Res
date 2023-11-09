@@ -1,4 +1,4 @@
-resource=SMGT
+resource=SMGTB
 framecount=4
 framewidth=32
 frameheight=64

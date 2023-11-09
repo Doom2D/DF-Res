@@ -1,4 +1,4 @@
-resource=SMBT
+resource=SMBTA
 framecount=4
 framewidth=32
 frameheight=64

@@ -1,4 +1,4 @@
-resource=POL6
+resource=POL6A
 framecount=2
 framewidth=32
 frameheight=64

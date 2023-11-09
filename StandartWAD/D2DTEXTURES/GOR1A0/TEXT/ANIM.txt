@@ -1,4 +1,4 @@
-resource=GOR1
+resource=GOR1A
 framecount=4
 framewidth=32
 frameheight=64

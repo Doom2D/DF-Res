@@ -1,4 +1,4 @@
-resource=POL3
+resource=POL3B
 framecount=2
 framewidth=64
 frameheight=64

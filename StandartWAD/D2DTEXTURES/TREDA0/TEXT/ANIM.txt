@@ -1,4 +1,4 @@
-resource=TRED
+resource=TREDA
 framecount=4
 framewidth=32
 frameheight=128

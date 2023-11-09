@@ -1,4 +1,4 @@
-resource=WALL58
+resource=WALL58_2
 framecount=3
 framewidth=64
 frameheight=128

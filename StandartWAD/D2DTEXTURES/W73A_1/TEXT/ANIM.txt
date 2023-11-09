@@ -1,4 +1,4 @@
-resource=W73A
+resource=W73A_1
 framecount=3
 framewidth=128
 frameheight=128
